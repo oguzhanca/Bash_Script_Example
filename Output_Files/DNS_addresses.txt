@@ -1,0 +1,45 @@
+blogs.splunk.com is an alias for splunk-prod-blogs-413937879.us-west-1.elb.amazonaws.com.
+splunk-prod-blogs-413937879.us-west-1.elb.amazonaws.com has address 50.18.199.167
+splunk-prod-blogs-413937879.us-west-1.elb.amazonaws.com has address 52.9.61.241
+conf.splunk.com is an alias for d32ct7cgk4i32b.cloudfront.net.
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.149
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.151
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.48
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.214
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.14
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.60
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.173
+d32ct7cgk4i32b.cloudfront.net has address 52.222.171.105
+dev.splunk.com is an alias for dev.r53.splunk.com.
+dev.r53.splunk.com has address 54.213.119.78
+dev.r53.splunk.com has address 54.187.149.166
+docs.splunk.com is an alias for docs.r53.splunk.com.
+docs.r53.splunk.com has address 52.36.5.66
+docs.r53.splunk.com has address 52.88.221.143
+investors.splunk.com is an alias for amda-rwdlh.client.shareholder.com.
+amda-rwdlh.client.shareholder.com is an alias for webcenter360.shareholder.com.
+webcenter360.shareholder.com has address 206.200.251.19
+splunkbase.splunk.com has address 52.11.10.173
+splunkbase.splunk.com has address 52.32.239.55
+splunkbase.splunk.com has address 35.160.59.174
+splunklive.splunk.com is an alias for d1vexie51szton.cloudfront.net.
+d1vexie51szton.cloudfront.net has address 52.222.171.77
+d1vexie51szton.cloudfront.net has address 52.222.171.229
+d1vexie51szton.cloudfront.net has address 52.222.171.70
+d1vexie51szton.cloudfront.net has address 52.222.171.48
+d1vexie51szton.cloudfront.net has address 52.222.171.64
+d1vexie51szton.cloudfront.net has address 52.222.171.200
+d1vexie51szton.cloudfront.net has address 52.222.171.27
+d1vexie51szton.cloudfront.net has address 52.222.171.161
+usergroups.splunk.com is an alias for splunk-usergroups-prod-1033061819.us-west-1.elb.amazonaws.com.
+splunk-usergroups-prod-1033061819.us-west-1.elb.amazonaws.com has address 52.9.60.70
+splunk-usergroups-prod-1033061819.us-west-1.elb.amazonaws.com has address 52.8.199.141
+www.splunk.com is an alias for d2n3e195vjrw9z.cloudfront.net.
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.191
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.182
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.39
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.55
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.71
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.240
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.238
+d2n3e195vjrw9z.cloudfront.net has address 52.222.171.149
